@@ -1,0 +1,5 @@
+interface:
+  display_name: "Business Flow Documenter"
+  short_description: "Map large codebases into evidence-based business flow docs with Mermaid diagrams."
+  icon: "map"
+  brand_color: "#2563eb"
